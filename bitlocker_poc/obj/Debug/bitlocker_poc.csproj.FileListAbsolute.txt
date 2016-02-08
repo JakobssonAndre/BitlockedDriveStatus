@@ -1,0 +1,5 @@
+D:\Source\bitlocker_poc\bitlocker_poc\obj\Debug\bitlocker_poc.csprojResolveAssemblyReference.cache
+D:\Source\bitlocker_poc\bitlocker_poc\bin\Debug\bitlocker_poc.exe
+D:\Source\bitlocker_poc\bitlocker_poc\bin\Debug\bitlocker_poc.pdb
+D:\Source\bitlocker_poc\bitlocker_poc\obj\Debug\bitlocker_poc.exe
+D:\Source\bitlocker_poc\bitlocker_poc\obj\Debug\bitlocker_poc.pdb

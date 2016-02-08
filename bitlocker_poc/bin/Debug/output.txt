@@ -1,0 +1,17 @@
+2016-02-08 20:59:25
+
+1.
+  DeviceID:            \\?\Volume{ed5cd0b7-0211-11e5-824f-806e6f6e6963}\
+  PersistentVolumeID:  
+  DriveLetter:         D:
+  ProtectionStatus:    0
+2.
+  DeviceID:            \\?\Volume{597d37fb-97e8-4dbb-a4c8-e21ecc19a39b}\
+  PersistentVolumeID:  
+  DriveLetter:         C:
+  ProtectionStatus:    0
+3.
+  DeviceID:            \\?\Volume{922ecc7b-b00f-4490-b849-fc0e79e4c788}\
+  PersistentVolumeID:  
+  DriveLetter:         E:
+  ProtectionStatus:    0
